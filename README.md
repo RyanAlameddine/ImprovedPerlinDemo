@@ -1,6 +1,10 @@
 # ImprovedPerlinDemo
 A demonstration of Perlin Noise Generation (3D Perlin represented in 1D and 2D) in regards to pure random noise built in C# in Unity.
 
+The project can be downloaded [here](publish/ImprovedPerlinStandalone.zip) and can be run on windows. Just unzip the project and run NoiseGeneration.exe to use it!
+
+If you would like to run it on another operating system or modify the project code, you are welcome to use the source code as you please.
+
 ## Representations
  - 1D representation of Perlin noise
  <img src="https://i.imgur.com/yB2Haj5.png?1" width="350">
